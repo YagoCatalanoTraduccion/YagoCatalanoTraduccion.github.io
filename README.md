@@ -8,7 +8,7 @@ Hay 2 portales de acceso, uno como profesional y otro como usuario de la página
 La pagina consta de informacion del equipo, de la empresa y de un formulario para contactar por si quiere ser traductor al siguiente nivel.
 
 
-PAGINA MONTADA [AQUÍ](http://2evayagotraduccion.com/).
+PAGINA MONTADA [AQUÍ](YagoCatalanoTraduccion.github.io/Web/).
 ## Bibliografía
 
 El logo de la empresa es completamente original creado por mí.
