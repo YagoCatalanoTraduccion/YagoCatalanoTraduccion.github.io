@@ -15,7 +15,7 @@ $strSQL.="VALUES('".$nom_usu."','".$contra."','".$correo."','".$tipo."')";
 $r=mysqli_query($conn,$strSQL);
 
 if ($r){
-    header("Location: acceder.html");
+    header("Location: accesotraductor.html");
 } else {
     print "<p>Ha ocurrido un error inesperado</p>";
 }

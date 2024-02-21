@@ -5,6 +5,7 @@ require_once("librerias/conexion.php");
 $nom_usu = $_REQUEST['usuario'];
 $contra = $_REQUEST['contrasena'];
 
+
 if ($nom_usu == "admin" && $contra == "8JEn,-QR;Z<T9(dO1pSO+Jdhi") {
     header("Location: admin.html");
     exit;
