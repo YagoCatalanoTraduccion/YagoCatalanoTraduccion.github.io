@@ -25,4 +25,4 @@ Manual de CSS: [Manual de Mozilla](https://developer.mozilla.org/en-US/docs/Web/
 
 Páginas sobre html y CSS: [Linea vertical](https://www.delftstack.com/es/howto/html/html-vertical-line/), [Cambiar color placeholder](https://es.stackoverflow.com/questions/179809/cambiar-color-de-placeholder-segundo-nombre), [Selector de archivos](https://lenguajehtml.com/html/formularios/etiqueta-html-input-file/), [Atributo aceptar](https://developer.mozilla.org/es/docs/Web/HTML/Attributes/accept), [Poner color a type file](https://stackoverflow.com/questions/572768/styling-an-input-type-file-button), [Cambiar el aviso de campo requerido](https://es.stackoverflow.com/questions/131885/como-cambiar-el-mensaje-de-alerta-para-inputs-de-formularios), [Formas personalizadas](https://www.youtube.com/watch?v=j5GxE2ySqV0), 
 
-Horas totales empleadas: 10:55
+Horas totales empleadas: 15:55
